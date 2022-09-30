@@ -76,6 +76,13 @@
 
 #### Git Branch
 
-##### [GitHub](https://github.com/kos5667/Git/tree/main/github) 사용법
+#### Document and Configuration management Tip.
 
-##### [Markdown](https://github.com/kos5667/Git/tree/main/markdown) 사용법
+| **제목**                                                     | 내용          |                                            |
+| ------------------------------------------------------------ | ------------- | ------------------------------------------ |
+| [Git]()                                                      | Git 사용법    |                                            |
+| [**GitHub**](https://github.com/kos5667/Git/tree/main/github) | Github 사용법 | ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ |
+| [**Markdown(feat. Typora)**](https://github.com/kos5667/Git/tree/main/markdown) |               |                                            |
+| **Sublime 3**                                                | Shortcut 정리 |                                            |
+| **Visual Studio Code**                                       | 사용법        |                                            |
+
