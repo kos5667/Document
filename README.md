@@ -23,7 +23,7 @@
    $ git add {file name}
    
    # multi file
-   $ git *
+   $ git \*
    ```
 
 4. **commit**
