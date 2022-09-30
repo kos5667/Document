@@ -1,4 +1,4 @@
-#### [Git 기본 사용법](https://git-scm.com/book/ko/v2)
+### [Git 기본 사용법](https://git-scm.com/book/ko/v2)
 
 1. **clone** 로컬 저장소를 복제(clone)
 
