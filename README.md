@@ -1,12 +1,16 @@
 #### Git 기본 사용법
 
-1. clone
+1. **clone** 로컬 저장소를 복제(clone)
 
    ```bash
-   $ git clone {https url}
+   # 로컬 저장소를 복제(clone)
+   $ git clone {/local/저장소/path}
+   
+   # 원격 서버의 저장소를 복제
+   $ git clone {username@host:/원격/저장소/path}
    ```
 
-2. 프로젝트 폴더 초기화
+2. **init** 프로젝트 폴더 초기화
 
    ```bash
    $ git init
