@@ -1,8 +1,8 @@
 ### Document.
 
 |Document name|Content|Note|
-| :---: | --- | --- |
-| [**Git**](https://bit.ly/3T2BtcL)| What is Git? | Git commands and usage summary |
+| :---- | --- | --- |
+| [**Git**](https://tinyurl.com/2oqo74st) | What is Git? | Git commands and usage summary |
 | [**GitHub**](https://bit.ly/3E6uBGY) | What is Github? |                                |
 | [**Markdown(feat. Typora)**](https://github.com/kos5667/Git/tree/main/markdown) |                 |                                |
 |                        **Sublime 3**                         |                 |                                |
