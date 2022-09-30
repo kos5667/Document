@@ -16,49 +16,59 @@
    $ git init
    ```
 
-3. commit
+3. **add** 파일 추가
+
+   ```bash
+   # single file
+   $ git add {file name}
+   
+   # multi file
+   $ git *
+   ```
+
+4. **commit**
 
    ```bash
    $ git commit -m "{commit message}"
    ```
 
-4. push
+5. push
 
    ```bash
    $git push -u origin {branch name}
    ```
 
-5. pull
+6. pull
 
    ```bash
    
    ```
 
-6. log : `git log`로 커밋 변경사항을 추적할 수 있다.
+7. log : `git log`로 커밋 변경사항을 추적할 수 있다.
 
    ```bash
    $ git log
    ```
 
-7. 파일의 상태 확인하기
+8. 파일의 상태 확인하기
 
    ```bash
    $ git status
    ```
 
-8. 프로젝트 폴더 초기화
+9. 프로젝트 폴더 초기화
 
    ```bash
    $ git init
    ```
-
-9. 
 
 10. 
 
 11. 
 
 12. 
+
+13. 
 
     
 
