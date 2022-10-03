@@ -16,7 +16,7 @@
     <tbody>
         <!-- SCM-Git -->
         <tr style="">
-            <td rowspan="3" style="text-align:center">SCM<br/>(Software Configuration Management)</td>
+            <td rowspan="3" style="text-align:center">SCM</td>
             <td rowspan="2" style="text-align:center">Git</td>
             <td></td>
             <td><a href="./git/git/README.md">Git</a></td>
@@ -73,7 +73,7 @@
         <!-- Database -->
         <tr>
             <td rowspan="5">Database</td>
-            <td rowspan="4">RDBMS<br/>(Relational DataBase Management System)</td>
+            <td rowspan="4">RDBMS</td>
             <td></td>
             <td><a href="#">SQL</a></td>
         </tr>
@@ -143,8 +143,3 @@
 
 ---
 
-
-
-
-
-Language
