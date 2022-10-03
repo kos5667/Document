@@ -27,11 +27,11 @@
         <tr>
             <td rowspan="2">Git</td>
             <td></td>
-            <td><a href=".git/git/README.md">Git</a></td>
+            <td><a href="./git/git/README.md">Git</a></td>
         </tr>
         <tr>
             <td></td>
-            <td><a href=".git/github/README.md">GitHub</a></td>
+            <td><a href="./git/github/README.md">GitHub</a></td>
         </tr>
         <!-- Docker -->
     </tbody>
