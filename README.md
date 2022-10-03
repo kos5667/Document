@@ -5,6 +5,12 @@
 ---
 
 <table>
+    <colgroup>
+        <col>
+        <col>
+        <col>
+        <col width="*">
+    </colgroup>
     <thead>
         <tr>
             <th>구분</th>
