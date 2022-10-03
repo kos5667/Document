@@ -4,13 +4,7 @@
 
 ---
 
-<table width="100%">
-    <colgroup>
-        <col>
-        <col>
-        <col>
-        <col width="*">
-    </colgroup>
+<table>
     <thead>
         <tr>
             <th>구분</th>
@@ -20,10 +14,24 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td rowspan="3">Language</td>
+            <td rowspan="3">Java</td>
+            <td></td>
+            <td><a href="#">Java</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#">Spring</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#">Spring Boot</a></td>
+        </tr>
         <!-- SCM-Git -->
-        <tr style="">
-            <td rowspan="3" style="text-align:center">SCM</td>
-            <td rowspan="2" style="text-align:center">Git</td>
+        <tr>
+            <td rowspan="3">SCM</td>
+            <td rowspan="2">Git</td>
             <td></td>
             <td><a href="./git/git/README.md">Git</a></td>
         </tr>
@@ -33,13 +41,13 @@
         </tr>
         <!-- SCM-SVN -->
         <tr>
-            <td style="text-align:center">SVN</td>
+            <td>SVN</td>
             <td></td>
             <td><a href="#">SVN</a></td>
         </tr>
         <!-- Server-Network -->
         <tr>
-            <td rowspan="8">Sever</td>
+            <td rowspan="10">Sever</td>
             <td rowspan="3">Network</td>
             <td></td>
             <td><a href="#">TCP, UDP</a></td>
@@ -75,6 +83,18 @@
             <td>Nginx</td>
             <td></td>
             <td><a href="#">Nginx</a></td>
+        </tr>
+        <!-- Server-Kubernetes -->
+        <tr>
+            <td>Kubernetes</td>
+            <td></td>
+            <td><a href="#">Kubernetes</a></td>
+        </tr>
+        <!-- Server-Jenkins -->
+        <tr>
+            <td>Jenkins</td>
+            <td></td>
+            <td><a href="#">Jenkins</a></td>
         </tr>
         <!-- Database -->
         <tr>
