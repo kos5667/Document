@@ -4,7 +4,7 @@
 
 ---
 
-<table>
+<table width="100%">
     <colgroup>
         <col>
         <col>
