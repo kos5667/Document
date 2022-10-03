@@ -1,30 +1,18 @@
 ### Document.
 
-| Document name                                                | Content      | Note                                                         |
-| :----------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
-| **Git**                                                      | What is Git? | [**1. Git**](https://tinyurl.com/2oqo74st)- Git commands and usage summary<br />[**2. GitHub**](https://bit.ly/3E6uBGY) - Github |
-| Docker                                                       |              | [**1. Docker docs**](https://tinyurl.com/2na8gjyy)<br />[**2. Docker  Compose**](https://tinyurl.com/2l5jto84)<br />[**3. Docker Hub**](https://tinyurl.com/2ltr6qgh)<br />[**4. Docker Desktop**](https://tinyurl.com/2jwfwjst) |
-|                                                              |              |                                                              |
-|                                                              |              |                                                              |
-|                                                              |              |                                                              |
-| [**Markdown(feat. Typora)**](https://github.com/kos5667/Git/tree/main/markdown) |              |                                                              |
-| **Sublime 3**                                                |              |                                                              |
-| **Visual Studio Code**                                       |              |                                                              |
-| **Linux**                                                    |              |                                                              |
-| **Postman**                                                  |              |                                                              |
-|                                                              |              |                                                              |
-
 <table>
     <thead>
         <tr>
+            <th>구분</th>
             <th>제목</th>
             <th>설명</th>
             <th>내용</th>
         </tr>
     </thead>
     <tbody>
-        <!-- Git -->
+        <!-- Git, SVN -->
         <tr>
+            <td rowspan="3">SCM(Software Configuration Management)</td>
             <td rowspan="2">Git</td>
             <td></td>
             <td><a href="./git/git/README.md">Git</a></td>
@@ -33,7 +21,23 @@
             <td></td>
             <td><a href="./git/github/README.md">GitHub</a></td>
         </tr>
-        <!-- Docker -->
+        <tr>
+            <td>SVN</td>
+            <td></td>
+            <td><a href="#">SVN</a></td>
+        </tr>
+        <!-- Server-Network -->
+        <tr>
+            <td rowspan="7">Sever</td>
+            <td rowspan="2">Network</td>
+            <td></td>
+            <td><a href="#">TCP, UDP</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#">HTTP, HPPTS</a></td>
+        </tr>
+        <!-- Server-Docker -->
         <tr>
             <td rowspan="4">Docker</td>
             <td></td>
@@ -51,7 +55,39 @@
             <td></td>
             <td><a href="./docker/04.docker-tools/README.md">Docker Desktop</a></td>
         </tr>
-        <!-- MarkDown -->
+        <tr>
+            <td>Nginx</td>
+            <td></td>
+            <td><a href="#">Nginx</a></td>
+        </tr>
+        <!-- Server-Nginx -->
+        <!-- Database -->
+        <tr>
+            <td rowspan="5">Database</td>
+            <td rowspan="4">RDBMS<br/>(Relational DataBase Management System)</td>
+            <td></td>
+            <td><a href="#">SQL</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#">Oracle</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#">MySQL</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#">Postgresql</a></td>
+        </tr>
+        <tr>
+            <td>NoSQL</td>
+            <td></td>
+            <td><a href="#">MongoDB</a></td>
+        </tr>
+        <!-- Visual Studio Code -->
+        <!-- Postman -->
+        <!-- Tools-MarkDown -->
         <tr>
             <td rowspan="2">Markdown(feat.Typora)</td>
             <td></td>
@@ -61,13 +97,19 @@
             <td></td>
             <td><a href="#">Typora</a></td>
         </tr>
-        <!-- Linux -->
-        <!-- Postman -->
         <!-- Sublime Text3 -->
-        <!-- Visual Studio Code -->
-</tbody>
-
+        <!-- Linux -->
+        <!-- Etc. -->
+        <tr>
+            <td>Etc</td>
+            <td></td>
+            <td></td>
+            <td><a href="#">etc</a></td>
+        </tr>
+	</tbody>
 </table>
+
+
 
 
 
