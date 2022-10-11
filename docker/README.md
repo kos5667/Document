@@ -2,13 +2,13 @@
 
 ![Docker](./image/docker_lxc.png)
 
-### *Docker*
+### *1.1 Docker*
 
 Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨어이며  **LXC라는 컨테이너 기술**을 기반으로 만들어진 상위레벨의 **오픈소스 가상화 플랫폼**입니다. 
 
 **LXC**기술로 만들어진 Docker는 Linux 커널의 여러 기능을 활용하여 기능을 제공하고, 격리 기술들을 사용해 컨테이너로 실행하고 관리할 수 있습니다.
 
-### *LXC(Linux Containers)*
+### *1.2 LXC(Linux Containers)*
 
 *LXC*(Linux Containers)는 단일 컨트롤 호스트 상에서 여러 개의 고립된 리눅스 시스템 (컨테이너)들을 실행하기 위한 운영 시스템 레벨 가상화 방법입니다.
 
@@ -31,7 +31,21 @@ Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨�
 
 ---
 
+
+
 ## 2. Virtualization(가상화)
+
+### 2.1 가상화 개념
+
+### 2.2 가상화 종류
+
+### 2.3 하이퍼바이저(Hypervisor)
+
+### 2.4 가상 머신(Virtual Machine, VM)
+
+### 2.5 컨테이너(Container)
+
+
 
 > **Hypervisor**
 >
@@ -46,6 +60,10 @@ Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨�
 >
 > - 가상화는 하드웨어에서 기능을 분리하는 기술입니다.
 > - 클라우드 컴퓨팅은 이러한 분할에 따라 작동하는 솔루션보다 큰 개념입니다.
+
+---
+
+
 
 ## 3. Docker Container
 
