@@ -4,7 +4,7 @@
 
 ### *Docker*
 
-Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨어이며  **LXC라는 컨테이너** 기술을 기반으로 만들어진 상위레벨의 **오픈소스 가상화 플랫폼**(컨테이너 기술)입니다. 
+Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨어이며  **LXC라는 컨테이너 기술**을 기반으로 만들어진 상위레벨의 **오픈소스 가상화 플랫폼**입니다. 
 
 **LXC**기술로 만들어진 Docker는 Linux 커널의 여러 기능을 활용하여 기능을 제공하고, 격리 기술들을 사용해 컨테이너로 실행하고 관리할 수 있습니다.
 
@@ -31,6 +31,8 @@ Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨�
 
 ---
 
+
+
 ## 2. Docker Container
 
 ![Docker](./image/container.png)
@@ -47,12 +49,13 @@ Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨�
 
 |                       | Docker                                                       | Virtual Machines (VMs)                                       |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Boot-Time**         | Boots in a few seconds.                                      | It takes a few minutes for VMs to boot.                      |
-| **Runs on**           | Dockers make use of the execution engine.                    | VMs make use of the hypervisor.                              |
-| **Memory Efficiency** | No space is needed to virtualize, hence less memory.         | Requires entire OS to be loaded before starting the surface, so less efficient. |
-| **Isolation**         | Prone to adversities as no provisions for isolation systems. | Interference possibility is minimum because of the efficient isolation mechanism. |
-| **Deployment**        | Deploying is easy as only a single image, containerized can be used across all platforms. | Deployment is comparatively lengthy as separate instances are responsible for execution. |
+| **Boot-Time**         | 몇 초 안에 부팅됩니다.                                       | VM이 부팅되는 데 몇 분 정도 걸립니다.                        |
+| **Runs on**           | Docker는 Docker engine을 사용합니다.                         | VM은 하이퍼바이저를 사용합니다.                              |
+| **Memory Efficiency** | 가상화에 공간이 필요하지 않으므로 메모리가 적습니다.         | 표면을 시작하기 전에 전체 OS를 로드해야 하므로 효율성이 떨어집니다. |
+| **Isolation**         | 격리 시스템에 대한 조항이 없기 때문에 역경에 빠지기 쉽습니다. | 효율적인 격리 메커니즘으로 인해 간섭 가능성이 최소화됩니다.  |
+| **배포**              | 컨테이너화된 단일 이미지만 모든 플랫폼에서 사용할 수 있으므로 배포가 쉽습니다. | 별도의 인스턴스가 실행을 담당하므로 배포 시간이 비교적 오래 걸립니다. |
 | **Usage**             | Docker has a complex usage mechanism consisting of both third party and docker managed tools. | Tools are e                                                  |
+| 리소스 사용량         | 리소스 사용량 감소                                           | 더 많은 리소스 사용량                                        |
 
 
 
