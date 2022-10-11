@@ -35,17 +35,15 @@ Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨�
 
 ![Docker](./image/container.png)
 
-### Docker Container
+### Container
 
 컨테이너는 가상화 기술 중 하나로 대표적으로 LXC(Linux Container)가 있습니다. 기존 **<u>OS를 가상화</u>** 시키던 것과 달리 컨테이너는 OS레벨의 가상화로 격리된 공간에서 프로세스가 동작하는 기술입니다.
 
 한 서버의 여러 OS를 가상화 하여 사용하는 것과 컨테이너 방식으로 프로세스를 격리시켜 동작하는 방법은 어떠한 차이점이 있을까요?
 
+#### Docker VS VM(Virtual Machine)
 
-
-## 3. Docker VS VM(Virtual Machine)
-
-
+![Docker](./image/vm.png)
 
 
 
