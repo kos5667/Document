@@ -82,7 +82,7 @@ Docker는 Docker Inc.에 의해 개발 된 Go 언어로 작성된 소프트웨�
 
 ## 3. Docker Container
 
-![Docker](./image/container.png)
+<p align="center"><img src="./image/container.png"></p>
 
 ### Container
 
