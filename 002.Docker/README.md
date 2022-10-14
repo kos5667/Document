@@ -35,7 +35,7 @@
 > </details>
 >
 > <details>
-> <summary><a href="">Docker compose</a></summary>
+> <summary><a href="./03.docker-compose/README.md">Docker compose</a></summary>
 > <!-- summary  -->
 > 	<ul>
 >         <li>1. Docker lifecycle</li>
@@ -44,7 +44,7 @@
 > </details>
 >
 > <details>
-> <summary><a href="">Docker desktop</a></summary>
+> <summary><a href="./04.docker-desktop/README.md">Docker desktop</a></summary>
 > <!-- summary  -->
 > 	<ul>
 >         <li>1. Docker lifecycle</li>
