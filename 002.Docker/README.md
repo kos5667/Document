@@ -1,4 +1,4 @@
-> **목차** 
+> ##### **목차**
 >
 > <details>
 > <summary><strong>What is Docker?</strong></summary>
@@ -51,8 +51,6 @@
 >         <li></li>
 >     </ul>
 > </details>
->
-> [**다음**]() >> Docker Doc.
 
 ## *1. What is Docker?*
 
