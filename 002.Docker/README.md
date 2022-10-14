@@ -25,9 +25,23 @@
 >       </ul>
 >   </details>
 >
-> - [Docker hub]()
+> - <details>
+>   <summary><a href=""><strong>Docker hub</strong></a></summary>
+>   <!-- summary  -->
+>   	<ul>
+>           <li>1. Docker lifecycle</li>
+>           <li></li>
+>       </ul>
+>   </details>
 >
-> - [Docker compose]()
+> - <details>
+>   <summary><a href=""><strong>Docker compose</strong></a></summary>
+>   <!-- summary  -->
+>   	<ul>
+>           <li>1. Docker lifecycle</li>
+>           <li></li>
+>       </ul>
+>   </details>
 >
 > - [Docker desktop]()
 >
