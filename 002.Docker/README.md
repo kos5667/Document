@@ -54,8 +54,6 @@
 >
 > [**다음**]() >> Docker Doc.
 
-
-
 ## *1. What is Docker?*
 
 ![Docker](./image/docker_lxc.png)
