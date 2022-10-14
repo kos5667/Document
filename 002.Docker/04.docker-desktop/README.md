@@ -15,33 +15,33 @@
 >         <li>9. Docker Object</li>
 >     </ul>
 > </details>
->
-> <details>
-> <summary><a href="./01.docker-docs/README.md">Docker doc.</a></summary>
+><details>
+> <summary><a href="../01.docker-docs/README.md">Docker doc.</a></summary>
 > <!-- summary  -->
 > 	<ul>
->         <li>1. Docker lifecycle</li>
+>      <li>1. Docker lifecycle</li>
 >         <li></li>
 >     </ul>
-> </details>
->
-> <details>
-> <summary><a href="./02.docker-hub/README.md">Docker hub</a></summary>
+>    </details>
+> 
+><details>
+> <summary><a href="../02.docker-hub/README.md">Docker hub</a></summary>
 > <!-- summary  -->
 > 	<ul>
->         <li>1. Docker lifecycle</li>
+>      <li>1. Docker lifecycle</li>
 >         <li></li>
 >     </ul>
-> </details>
->
-> <details>
-> <summary><a href="./03.docker-compose/README.md">Docker compose</a></summary>
+>    </details>
+> 
+><details>
+> <summary><a href="../03.docker-compose/README.md">Docker compose</a></summary>
 > <!-- summary  -->
 > 	<ul>
->         <li>1. Docker lifecycle</li>
+>      <li>1. Docker lifecycle</li>
 >         <li></li>
 >     </ul>
-> </details>
+>    </details>
+> 
 >
 > <details>
 > <summary><strong>Docker desktop</strong></summary>
