@@ -51,8 +51,6 @@
 >         <li></li>
 >     </ul>
 > </details>
->
-> [**다음**]() >> Docker Doc.
 
 ## 1. Docker Desktop
 
