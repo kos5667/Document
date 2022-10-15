@@ -154,15 +154,19 @@ Docker 클라이언트와 데몬은 UNIX 소켓 또는 네트워크 인터페이
 
 <p align="center"><img src="./image/docker-architecture.png"></p>
 
+## 5. Docker LifeCycle
 
 
-## 5. Docker engine
+
+
+
+## 6. Docker engine
 
 Docker Engine(`docker`)는 사용자의 컴퓨터에 설치하여 컨테이너를 build 하고 run 하는 데 사용하는 소프트웨어
 
 
 
-## 6. Docker daemon
+## 7. Docker daemon
 
 Docker daemon( `dockerd`)은 Docker API 요청을 수신하고 이미지, 컨테이너, 네트워크 및 볼륨과 같은 Docker 객체를 관리합니다. 
 
@@ -170,7 +174,7 @@ Docker daemon( `dockerd`)은 Docker API 요청을 수신하고 이미지, 컨테
 
 
 
-## 7. Docker client
+## 8. Docker client
 
 Docker client( `docker`)는 도커 서버와 통신하기 위한 가장 주요한 기능을 수행합니다. 
 
@@ -178,13 +182,13 @@ Docker client( `docker`)는 도커 서버와 통신하기 위한 가장 주요�
 
 
 
-## 8. Docker registries
+## 9. Docker registries
 
 Docker registries 는 Docker 이미지를 저장합니다. Docker Hub는 누구나 사용할 수 있는 공개 레지스트리이며 Docker는 기본적으로 Docker Hub에서 이미지를 찾도록 구성되어 있습니다.
 
 
 
-## 9. Docker objects
+## 10. Docker objects
 
 Docker를 사용하면 이미지, 컨테이너, 네트워크, 볼륨, 플러그인 및 기타 개체를 만들고 사용하게 됩니다. 이 섹션은 이러한 개체 중 일부에 대한 간략한 개요입니다.
 
